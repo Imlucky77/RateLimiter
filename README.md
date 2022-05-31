@@ -1,4 +1,4 @@
-# Java RateLimiter Example
+# Java RateLimiter
 
 ## Requirements
 
